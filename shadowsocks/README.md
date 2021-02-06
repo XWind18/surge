@@ -40,7 +40,7 @@ https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 使用root用户登录，运行以下命令：
 
 ```bsh
-wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/XWind18/surge/master/shadowsocks/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
 ```
